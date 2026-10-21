@@ -7,7 +7,7 @@ cask "glukoscope" do
   desc "Glucose and trends in the macOS menu bar"
   homepage "https://www.glukoscope.com/mac"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
   depends_on arch: :arm64
 
   app "GlukoScope.app"

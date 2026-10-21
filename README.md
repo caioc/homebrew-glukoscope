@@ -7,7 +7,8 @@ Glicose e tendência na barra de menus, com a imagem do Gluko e um gráfico das 
 ## Instalar
 
 ```sh
-brew install --cask caioc/glukoscope/glukoscope
+brew tap caioc/glukoscope
+brew install --cask glukoscope
 ```
 
 Requer macOS 13+ e Mac com Apple Silicon. Entre com sua conta GlukoScope.
