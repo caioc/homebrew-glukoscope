@@ -40,3 +40,7 @@ O app mantém a sessão no Chaves do Mac ao encerrar, reabrir e atualizar. A ver
 Contém somente o cask e as distribuições públicas do aplicativo. O código-fonte do produto é mantido em um repositório privado.
 
 Criado por Caio Gomes. © 2026 Caio Gomes.
+
+Feito por **[Caio Gomes](https://www.caioc.dev/)**.
+
+Atualizações desta prévia com assinatura ad hoc também podem pedir novamente a senha do Chaves para acessar a sessão salva. “Permitir Sempre” vale para o binário autorizado; um novo build pode exigir uma nova autorização do macOS.

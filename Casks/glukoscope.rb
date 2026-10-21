@@ -1,8 +1,8 @@
 cask "glukoscope" do
-  version "0.0.2"
-  sha256 "a78457884da914641824d029feeb2544e28dd3ef2832348bfdc0ecc48f595ae2"
+  version "0.0.3"
+  sha256 "2a2a66d53d8903ab72023d779a2fb5e063fcd51013c1809908b491cf15f53aed"
 
-  url "https://github.com/caioc/homebrew-glukoscope/releases/download/v0.0.2/GlukoScope-0.0.2-macos-arm64.zip"
+  url "https://github.com/caioc/homebrew-glukoscope/releases/download/v0.0.3/GlukoScope-0.0.3-macos-arm64.zip"
   name "GlukoScope"
   desc "Glucose and trends in the macOS menu bar"
   homepage "https://www.glukoscope.com/mac"
