@@ -17,6 +17,12 @@ cask "glukoscope" do
   caveats <<~EOS
     This preview is not notarized by Apple. macOS may require manual approval
     in System Settings > Privacy & Security before its first launch.
+    If macOS blocks GlukoScope and you trust this official download:
+      1. Dismiss the warning with OK.
+      2. Open System Settings > Privacy & Security and scroll to Security.
+      3. Click Open Anyway next to GlukoScope, then confirm Open Anyway/Open.
+    This approves only this app; do not disable Gatekeeper.
+    Guide: https://www.glukoscope.com/mac
     No Apple Developer subscription is required to install this app.
   EOS
 end

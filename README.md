@@ -15,6 +15,17 @@ Requer macOS 13+ e Mac com Apple Silicon. Entre com sua conta GlukoScope.
 
 Esta é uma prévia sem notarização da Apple. O macOS pode bloquear a primeira abertura e exigir autorização manual em Ajustes do Sistema → Privacidade e Segurança. O instalador não desativa proteções do macOS. Não é necessário ter uma assinatura Apple Developer para instalar ou usar.
 
+## Primeira abertura, inclusive ao instalar pelo Brew
+
+Esta prévia não passou pela notarização da Apple. Se o macOS mostrar **“O Item GlukoScope Não Foi Aberto”** e você tiver baixado pelos nossos links oficiais e decidir autorizar:
+
+1. Feche o aviso em **OK**.
+2. Abra **Ajustes do Sistema → Privacidade e Segurança** e role até **Segurança**.
+3. No aviso do GlukoScope, clique em **Abrir Mesmo Assim**.
+4. Confirme novamente em **Abrir Mesmo Assim** ou **Abrir**; o Mac pode pedir senha ou Touch ID.
+
+A exceção é para este aplicativo. Não é necessário desativar o Gatekeeper nem alterar a proteção geral do Mac. [Orientação oficial da Apple](https://support.apple.com/pt-br/102445).
+
 ## Atualizar
 
 ```sh
